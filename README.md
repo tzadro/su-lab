@@ -1,2 +1,2 @@
 # su-lab
-Labosi za SU
+Labosi iz predmeta (Strojno ucenje)[http://www.fer.unizg.hr/predmet/su]
